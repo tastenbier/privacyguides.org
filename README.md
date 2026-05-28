@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 MD045 -->
-<div align="center">
+<div align="acenter">
   <a href="https://www.privacyguides.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/privacyguides/brand/67166ed8b641d8ac1837d0b75329e02ed4056704/logos/svg/logo/privacy-guides-logo-dark.svg">
